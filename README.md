@@ -61,6 +61,8 @@ Criar uma aplicação web funcional (frontend + backend) onde:
 
 - Utilização de Docker para ambientação da aplicação.
 - Utilização de Kendo UI com JQuery.
+- Uso de commits patterns.
+- Uso de SOLID e Clean Code no desenvolvimento.
 
 ---
 ## 📝 Entrega
