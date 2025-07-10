@@ -71,7 +71,7 @@ Criar uma aplicação web funcional (frontend + backend) onde:
 - Inclua um `README.md` com:
   - Instruções para rodar o projeto
   - Comentários ou considerações pessoais
-- Após a entrega do link do repositório, não será considerado commits feitos após a entrega do projeto.
+- Após a entrega do link do repositório, não serão considerado commits feitos após a entrega do projeto.
 ---
 
 ## 📬 Dúvidas?
